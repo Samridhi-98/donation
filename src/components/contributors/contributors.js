@@ -72,7 +72,7 @@ const Contributor = () => {
             <h3 class="raised">$22&nbsp;raised </h3>
           </div>
 
-          <h3 class="goal">Goal: $50</h3>
+          <h3 class="goal">Goal: $33</h3>
         </div>
 
         <div
